@@ -1,1 +1,1 @@
-Check 'conky.conf' file
+### Check the file ```conky.conf``` for configurations 🎉🎉
